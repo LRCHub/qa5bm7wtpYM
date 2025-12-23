@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Queens",
+  "base_artist": "ぶいすぽっ！",
+  "createdAt": "2025-12-23T12:03:33.692165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Queens Is",
+      "artist": "LL Cool J feat. Prodigy",
+      "has_synced": false,
+      "path": "select/01_Queens_Is_LL_Cool_J_feat._Prodigy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Queens Is (feat. Prodigy)",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/02_Queens_Is_(feat._Prodigy)_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Second 2 None (feat. Christine And The Queens)",
+      "artist": "Mura Masa feat. Christine and the Queens",
+      "has_synced": true,
+      "path": "select/03_Second_2_None_(feat._Christine_And_The_Queens)_Mura_Masa_feat._Christine_and_the_Queens.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Second 2 None (feat. Christine and the Queens)",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/04_Second_2_None_(feat._Christine_and_the_Queens)_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "King and Queen's Song",
+      "artist": "Okkervil River",
+      "has_synced": true,
+      "path": "select/05_King_and_Queen's_Song_Okkervil_River.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kings & Queens (feat. Run The Jewels)",
+      "artist": "DJ Shadow feat. Run The Jewels",
+      "has_synced": true,
+      "path": "select/06_Kings_&_Queens_(feat._Run_The_Jewels)_DJ_Shadow_feat._Run_The_Jewels.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kings & Queens",
+      "artist": "DJ Shadow",
+      "has_synced": true,
+      "path": "select/07_Kings_&_Queens_DJ_Shadow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gone (feat. Christine and the Queens) (Clarence Clarity Remix)",
+      "artist": "Charli XCX",
+      "has_synced": false,
+      "path": "select/08_Gone_(feat._Christine_and_the_Queens)_(Clarence_Clarity_Remix)_Charli_XCX.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gone (feat. Christine and the Queens) (The Wild Remix)",
+      "artist": "Charli XCX",
+      "has_synced": false,
+      "path": "select/09_Gone_(feat._Christine_and_the_Queens)_(The_Wild_Remix)_Charli_XCX.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Five Green Queens and Jean",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/10_Five_Green_Queens_and_Jean_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "5 Green Queens & Jean",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/11_5_Green_Queens_&_Jean_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "5 Green Queens And Jean",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/12_5_Green_Queens_And_Jean_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
+      "artist": "Charli XCX feat. Christine and the Queens & Caroline Polachek",
+      "has_synced": true,
+      "path": "select/13_New_Shapes_(feat._Christine_and_the_Queens_and_Caroline_Polachek)_Charli_XCX_feat._Christine_and_the_Queens_&_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "New Shapes (feat. Christine and the Queens & Caroline Polachek)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/14_New_Shapes_(feat._Christine_and_the_Queens_&_Caroline_Polachek)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kings & Queens",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/15_Kings_&_Queens_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kings & Queens (Extended Version)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/16_Kings_&_Queens_(Extended_Version)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kings & Queens Of The Underground",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/17_Kings_&_Queens_Of_The_Underground_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Queens",
+      "artist": "The Blaze",
+      "has_synced": true,
+      "path": "select/18_Queens_The_Blaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Queens",
+      "artist": "ぶいすぽっ!",
+      "has_synced": false,
+      "path": "select/pl_01_Queens_ぶいすぽっ!.txt"
+    }
+  ]
+}
