@@ -1,0 +1,41 @@
+# ぶいすぽっ！ – Queens
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+圧倒的センス　命知らずね
+いただきます　外さないのロックオン
+最高速度超えていくわ　3.2.1
+ほら　BANG BANG BANG BANG♡
+キラキラ瞬いて　クラクラ揺らすTrap
+十字切る隙もないくらいに　魅せてあげる極上のスタ
+イル
+世界はメイズ　無法なルール
+ユートピア　書き換える
+わたしたちのFaith
+邪魔するノイズはスワイプ
+駆け引きなんてダルい　ワンショットぶちかませ今
+Dawn
+Crash Crash Crash Crash　壊してあげる
+Crash Crash Crash Crash　運命のゲーム
+逆らう者などいない
+Crash Crash Crash Crash（We are the QUEENS）
+勝利はこの手に
+ポーカーフェイス崩すシナリオ
+欲しがりね　狙い撃ちのロックオン
+最高感度乗りこなして　3.2.1
+もう　Down Down Down Down♡
+キラキラ輝いて　クラクラ焦らすTrap
+吠えてみな安全地帯　黙らせる規格外のスタイル
+滾らすチェイス　逃げればルーズ
+巧みなスキル　追い詰める
+わたしたちのBlaze
+邪魔するノイズはスワイプ
+駆け引きなんてダルい　ワンショットぶちかませ今
+Dawn
+Crash Crash Crash Crash　壊してあげる
+Crash Crash Crash Crash　運命のゲーム
+逆らう者などいない
+Crash Crash Crash Crash（We are the QUEENS）
+全てはこの手に
+```
